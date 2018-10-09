@@ -47,7 +47,7 @@ que de la señal de que se ha abierto la puesta.
 
 1.4 Materiales
 
-⦁	1 Placa Arduino UNO
+⦁	1 Placa Arduino UNO \n
 ⦁	Cables macho-hembra
 ⦁	1 buzzer
 ⦁	2 leds
