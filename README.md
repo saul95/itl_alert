@@ -41,18 +41,28 @@ que de la señal de que se ha abierto la puesta.
 1.3 Hipótesis
 
 ⦁	Como posible hipótesis se prevé que el circuito no tendrá problemas de instalación y cableado.
+
 ⦁	El alumno no tendra problemas en la codificacion.
+
 ⦁	posiblemente se tenga problemas al momento de mandar el tono del buzzer
+
 ⦁	Posibles fallas en el sistema, al momento de detectar el sensor magnetico.
+
 
 1.4 Materiales
 
-⦁	1 Placa Arduino UNO \n
+⦁	1 Placa Arduino UNO
+
 ⦁	Cables macho-hembra
+
 ⦁	1 buzzer
+
 ⦁	2 leds
+
 ⦁	3 resistencias
+
 ⦁	1 button
+
 ⦁	1 reed switch
 
 1.5 Diagrama
